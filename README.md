@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar Tiwari</h1>
 <h3 align="center">Software Developer | Android & Flutter Expert | Mobile Team Lead at Distinct Infotech Solutions</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=10%2B+Years+in+Mobile+Development;Flutter+%7C+Android+%7C+Firebase+Expert;Team+Lead+%7C+Clean+Architecture+Advocate;Always+learning+%7C+Always+building" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🔧 Tech Stack & Tools
@@ -22,18 +18,9 @@
 - 🔁 **6 years in Native Android** (Java/Kotlin), **4 years in Flutter** (Dart)
 - 💼 Currently working as **Mobile Team Lead at Distinct Infotech Solutions**
 - 🧾 Building real-time apps for **Remittance, Cab Booking, Food Delivery, E-commerce, Fintech**
-- 🧠 Passionate about **Clean Architecture**, **State Management**, and **Scalable APIs**
+- 🧠 Passionate about **Clean Architecture**, **State Management**, **Mobile App Security** and **Scalable APIs**
 - 🧩 Learning: `.NET Core`, `Entity Framework`, `GraphQL`, `System Design`
-- ✍️ Open to consulting, mentorship, and collaboration
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitkumartiwaridis&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumartiwaridis&layout=compact&theme=radical" height="165" />
-</p>
+- ✍️ Open to Consulting, Mentorship, and Collaboration
 
 ---
 
@@ -55,7 +42,7 @@
 
 ### 🎯 Let's Collaborate!
 
-If you're working on mobile apps, backend APIs, or real-time systems—**I'm open to collaborations, code reviews, and consulting**.
+If you're working on mobile apps, backend APIs, or real-time systems—**I'm open to Collaborations, Code Reviews, and Consulting**.
 
 ---
 
