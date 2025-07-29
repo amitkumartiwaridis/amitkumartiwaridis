@@ -46,7 +46,7 @@
 
 ### 📬 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/amitkumartiwari)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/beingamitkumartiwari/)
 - 💼 [Portfolio Website](https://amitkumartiwarimobiledeveloper.web.app/)
 - 📧 Email: [youremail@example.com](mailto:amtechnovation@gmail.com)
 - 📝 [Medium Blog](https://beingamitkumartiwari.medium.com)
