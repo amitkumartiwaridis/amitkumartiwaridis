@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar Tiwari</h1>
-<h3 align="center">Mobile App Developer | Android & Flutter Expert | Mobile Team Lead at Distinct Infotech Solutions</h3>
+<h3 align="center">Software Developer | Android & Flutter Expert | Mobile Team Lead at Distinct Infotech Solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=10%2B+Years+in+Mobile+Development;Flutter+%7C+Android+%7C+Firebase+Expert;Team+Lead+%7C+Clean+Architecture+Advocate;Always+learning+%7C+Always+building" alt="Typing SVG" />
@@ -18,11 +18,11 @@
 ---
 
 ### 🚀 About Me
-- 👨‍💻 **Mobile App Developer** with over **10 years of experience**
-- 🔁 **6 years in Native Android** (Java/Kotlin), **4 years in Flutter**
+- 👨‍💻 **Software Developer** with over **10 years of experience**
+- 🔁 **6 years in Native Android** (Java/Kotlin), **4 years in Flutter** (Dart)
 - 💼 Currently working as **Mobile Team Lead at Distinct Infotech Solutions**
-- 🧾 Building real-time apps for **remittance, cab booking, food delivery**
-- 🧠 Passionate about **clean architecture**, **state management**, and **scalable APIs**
+- 🧾 Building real-time apps for **Remittance, Cab Booking, Food Delivery, E-commerce, Fintech**
+- 🧠 Passionate about **Clean Architecture**, **State Management**, and **Scalable APIs**
 - 🧩 Learning: `.NET Core`, `Entity Framework`, `GraphQL`, `System Design`
 - ✍️ Open to consulting, mentorship, and collaboration
 
