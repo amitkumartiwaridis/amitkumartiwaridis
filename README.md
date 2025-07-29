@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -40,8 +39,6 @@
 
 ### 🧠 Recent Learning & Blogs
 
-- ✅ Firebase Notifications (iOS, Android, Huawei)
-- ✅ Migrated GetX to Riverpod (Flutter Clean Architecture)
 - ✅ .NET Core Web API + EF Core + JWT Auth
 - 📚 More blogs on Medium: [@beingamitkumartiwari](https://beingamitkumartiwari.medium.com)
 
@@ -63,6 +60,6 @@ If you're working on mobile apps, backend APIs, or real-time systems—**I'm ope
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumar&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumartiwaridis&theme=radical" alt="GitHub Streak" />
 </p>
 
